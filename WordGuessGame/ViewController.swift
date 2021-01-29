@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var guessedLetterButton: UIButton!
     @IBOutlet weak var playAgainButton: UIButton!
     @IBOutlet weak var flowerImageView: UIImageView!
-    
+     
     
     override func viewDidLoad() {
         super.viewDidLoad()
